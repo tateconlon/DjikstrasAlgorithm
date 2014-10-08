@@ -1,0 +1,6 @@
+c:\users\tate conlon\documents\visual studio 2012\Projects\DjikstrasAlgorithm\DjikstrasAlgorithm\bin\Debug\DjikstrasAlgorithm.exe.config
+c:\users\tate conlon\documents\visual studio 2012\Projects\DjikstrasAlgorithm\DjikstrasAlgorithm\bin\Debug\DjikstrasAlgorithm.exe
+c:\users\tate conlon\documents\visual studio 2012\Projects\DjikstrasAlgorithm\DjikstrasAlgorithm\bin\Debug\DjikstrasAlgorithm.pdb
+c:\users\tate conlon\documents\visual studio 2012\Projects\DjikstrasAlgorithm\DjikstrasAlgorithm\obj\Debug\DjikstrasAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\tate conlon\documents\visual studio 2012\Projects\DjikstrasAlgorithm\DjikstrasAlgorithm\obj\Debug\DjikstrasAlgorithm.exe
+c:\users\tate conlon\documents\visual studio 2012\Projects\DjikstrasAlgorithm\DjikstrasAlgorithm\obj\Debug\DjikstrasAlgorithm.pdb
